@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3.2Alternative</string>
+    <string name="message">Apa khabar richard</string>
+    <string name="show_message">Tunjukkan mesej</string>
+</resources>
